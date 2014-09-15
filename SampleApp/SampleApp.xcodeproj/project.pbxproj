@@ -22,6 +22,10 @@
 		D423A62419C4A3B100164BA6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D423A60319C4A3B100164BA6 /* UIKit.framework */; };
 		D423A62C19C4A3B100164BA6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D423A62A19C4A3B100164BA6 /* InfoPlist.strings */; };
 		D423A62E19C4A3B100164BA6 /* SampleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D423A62D19C4A3B100164BA6 /* SampleAppTests.m */; };
+		D423A63A19C5E1A100164BA6 /* IG.png in Resources */ = {isa = PBXBuildFile; fileRef = D423A63919C5E1A100164BA6 /* IG.png */; };
+		D423A63C19C5F55400164BA6 /* IG-iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = D423A63B19C5F55400164BA6 /* IG-iphone.png */; };
+		D423A64A19C665C700164BA6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D423A64819C665C700164BA6 /* Localizable.strings */; };
+		D423A64C19C6671500164BA6 /* SampleApp-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D423A60719C4A3B100164BA6 /* SampleApp-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,22 +43,37 @@
 		D423A5FF19C4A3B100164BA6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D423A60119C4A3B100164BA6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		D423A60319C4A3B100164BA6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		D423A60719C4A3B100164BA6 /* SampleApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleApp-Info.plist"; sourceTree = "<group>"; };
+		D423A60719C4A3B100164BA6 /* SampleApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SampleApp-Info.plist"; sourceTree = "<group>"; };
 		D423A60919C4A3B100164BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D423A60B19C4A3B100164BA6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D423A60D19C4A3B100164BA6 /* SampleApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SampleApp-Prefix.pch"; sourceTree = "<group>"; };
-		D423A60E19C4A3B100164BA6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		D423A60F19C4A3B100164BA6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D423A60B19C4A3B100164BA6 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D423A60D19C4A3B100164BA6 /* SampleApp-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SampleApp-Prefix.pch"; sourceTree = "<group>"; };
+		D423A60E19C4A3B100164BA6 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D423A60F19C4A3B100164BA6 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		D423A61219C4A3B100164BA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		D423A61519C4A3B100164BA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		D423A61719C4A3B100164BA6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		D423A61819C4A3B100164BA6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D423A61719C4A3B100164BA6 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D423A61819C4A3B100164BA6 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D423A61A19C4A3B100164BA6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		D423A62019C4A3B100164BA6 /* SampleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D423A62119C4A3B100164BA6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		D423A62919C4A3B100164BA6 /* SampleAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleAppTests-Info.plist"; sourceTree = "<group>"; };
 		D423A62B19C4A3B100164BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D423A62D19C4A3B100164BA6 /* SampleAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleAppTests.m; sourceTree = "<group>"; };
+		D423A63919C5E1A100164BA6 /* IG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IG.png; path = Images.xcassets/IG.png; sourceTree = "<group>"; };
+		D423A63B19C5F55400164BA6 /* IG-iphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "IG-iphone.png"; path = "Images.xcassets/IG-iphone.png"; sourceTree = "<group>"; };
+		D423A63D19C65CDA00164BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main_iPhone.strings; sourceTree = "<group>"; };
+		D423A63E19C65F2D00164BA6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main_iPhone.strings; sourceTree = "<group>"; };
+		D423A63F19C65F2D00164BA6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main_iPad.strings; sourceTree = "<group>"; };
+		D423A64019C65F2D00164BA6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D423A64119C65F2D00164BA6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D423A64219C65F3A00164BA6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main_iPhone.strings; sourceTree = "<group>"; };
+		D423A64319C65F3A00164BA6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main_iPad.strings; sourceTree = "<group>"; };
+		D423A64419C65F3A00164BA6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D423A64519C65F3A00164BA6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D423A64719C6648D00164BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main_iPad.strings; sourceTree = "<group>"; };
+		D423A64919C665C700164BA6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = SampleApp/en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D423A64B19C6671500164BA6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = SampleApp/de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D423A64D19C6672600164BA6 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = SampleApp/es.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +103,7 @@
 		D423A5F319C4A3B100164BA6 = {
 			isa = PBXGroup;
 			children = (
+				D423A64819C665C700164BA6 /* Localizable.strings */,
 				D423A60519C4A3B100164BA6 /* SampleApp */,
 				D423A62719C4A3B100164BA6 /* SampleAppTests */,
 				D423A5FE19C4A3B100164BA6 /* Frameworks */,
@@ -129,6 +149,8 @@
 		D423A60619C4A3B100164BA6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D423A63B19C5F55400164BA6 /* IG-iphone.png */,
+				D423A63919C5E1A100164BA6 /* IG.png */,
 				D423A60719C4A3B100164BA6 /* SampleApp-Info.plist */,
 				D423A60819C4A3B100164BA6 /* InfoPlist.strings */,
 				D423A60B19C4A3B100164BA6 /* main.m */,
@@ -214,6 +236,8 @@
 			knownRegions = (
 				en,
 				Base,
+				de,
+				es,
 			);
 			mainGroup = D423A5F319C4A3B100164BA6;
 			productRefGroup = D423A5FD19C4A3B100164BA6 /* Products */;
@@ -231,7 +255,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D423A63A19C5E1A100164BA6 /* IG.png in Resources */,
+				D423A63C19C5F55400164BA6 /* IG-iphone.png in Resources */,
+				D423A64C19C6671500164BA6 /* SampleApp-Info.plist in Resources */,
 				D423A61619C4A3B100164BA6 /* Main_iPad.storyboard in Resources */,
+				D423A64A19C665C700164BA6 /* Localizable.strings in Resources */,
 				D423A61B19C4A3B100164BA6 /* Images.xcassets in Resources */,
 				D423A61319C4A3B100164BA6 /* Main_iPhone.storyboard in Resources */,
 				D423A60A19C4A3B100164BA6 /* InfoPlist.strings in Resources */,
@@ -282,6 +310,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				D423A60919C4A3B100164BA6 /* en */,
+				D423A64019C65F2D00164BA6 /* de */,
+				D423A64419C65F3A00164BA6 /* es */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -290,6 +320,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				D423A61219C4A3B100164BA6 /* Base */,
+				D423A63D19C65CDA00164BA6 /* en */,
+				D423A63E19C65F2D00164BA6 /* de */,
+				D423A64219C65F3A00164BA6 /* es */,
 			);
 			name = Main_iPhone.storyboard;
 			sourceTree = "<group>";
@@ -298,6 +331,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				D423A61519C4A3B100164BA6 /* Base */,
+				D423A63F19C65F2D00164BA6 /* de */,
+				D423A64319C65F3A00164BA6 /* es */,
+				D423A64719C6648D00164BA6 /* en */,
 			);
 			name = Main_iPad.storyboard;
 			sourceTree = "<group>";
@@ -306,8 +342,20 @@
 			isa = PBXVariantGroup;
 			children = (
 				D423A62B19C4A3B100164BA6 /* en */,
+				D423A64119C65F2D00164BA6 /* de */,
+				D423A64519C65F3A00164BA6 /* es */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		D423A64819C665C700164BA6 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D423A64919C665C700164BA6 /* en */,
+				D423A64B19C6671500164BA6 /* de */,
+				D423A64D19C6672600164BA6 /* es */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

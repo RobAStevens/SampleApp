@@ -1,0 +1,51 @@
+
+/* Class = "IBUILabel"; text = "Background Question #1"; ObjectID = "4Ug-mb-F7W"; */
+"4Ug-mb-F7W.text" = "Background Question #1";
+
+/* Class = "IBUILabel"; text = "Welcome to TurboTrader"; ObjectID = "FvV-r3-jQ9"; */
+"FvV-r3-jQ9.text" = "Welcome to TurboTrader";
+
+/* Class = "IBUITextField"; accessibilityHint = "Include your salary, bonuses and any other revenue"; ObjectID = "HVt-R8-XIf"; */
+"HVt-R8-XIf.accessibilityHint" = "Include your salary, bonuses and any other revenue";
+
+/* Class = "IBUITextField"; placeholder = "Current annual income"; ObjectID = "HVt-R8-XIf"; */
+"HVt-R8-XIf.placeholder" = "Current annual income";
+
+/* Class = "IBUILabel"; text = "Background Question #2"; ObjectID = "IYZ-bi-A7n"; */
+"IYZ-bi-A7n.text" = "Background Question #2";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "Na3-fr-Qwe"; */
+"Na3-fr-Qwe.normalTitle" = "Continue";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "RUc-c0-Hqg"; */
+"RUc-c0-Hqg.normalTitle" = "Continue";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "S9p-6v-aWO"; */
+"S9p-6v-aWO.normalTitle" = "Continue";
+
+/* Class = "IBUITextField"; accessibilityHint = "Your first (given) name"; ObjectID = "Tne-4h-tZN"; */
+"Tne-4h-tZN.accessibilityHint" = "Your first (given) name";
+
+/* Class = "IBUITextField"; placeholder = "First name"; ObjectID = "Tne-4h-tZN"; */
+"Tne-4h-tZN.placeholder" = "First name";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "gW7-WK-jhW"; */
+"gW7-WK-jhW.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Your financial background"; ObjectID = "q2O-TE-fvi"; */
+"q2O-TE-fvi.text" = "Your financial background";
+
+/* Class = "IBUITextField"; placeholder = "Last name"; ObjectID = "qOy-yN-Um6"; */
+"qOy-yN-Um6.placeholder" = "Last name";
+
+/* Class = "IBUITextField"; accessibilityHint = "E.g. mortgage/rent, loans and other repayments"; ObjectID = "r9F-CL-Cfu"; */
+"r9F-CL-Cfu.accessibilityHint" = "E.g. mortgage/rent, loans and other repayments";
+
+/* Class = "IBUITextField"; placeholder = "Monthly expenses"; ObjectID = "r9F-CL-Cfu"; */
+"r9F-CL-Cfu.placeholder" = "Monthly expenses";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "urC-HW-0t4"; */
+"urC-HW-0t4.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "Date of Birth"; ObjectID = "y2n-wt-lXe"; */
+"y2n-wt-lXe.text" = "Date of Birth";

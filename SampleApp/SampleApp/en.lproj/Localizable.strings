@@ -1,0 +1,12 @@
+/* Displayed when a form with multiple entries has at least one entry empty or incorrect */
+"Incomplete Form" = "Incomplete Form";
+/* Prompt user to enter their first name */
+"Please enter your first name" = "Please enter your first name";
+/* Prompt user to enter their last name */
+"Please enter your last name" = "Please enter your last name";
+/* Prompt user to enter an email address */
+"Please enter a valid email address" = "Please enter a valid email address";
+/* Prompt user to enter a password */
+“Please enter a password” = “Please enter a password”;
+/* Confirmation of a message */
+"OK" = "OK";

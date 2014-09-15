@@ -1,0 +1,21 @@
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "4rz-dN-L4o"; */
+"4rz-dN-L4o.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Date of Birth"; ObjectID = "BFF-Gs-6bv"; */
+"BFF-Gs-6bv.text" = "Date of Birth";
+
+/* Class = "IBUITextField"; accessibilityHint = "Your first (given) name"; ObjectID = "EaU-Qd-Nvz"; */
+"EaU-Qd-Nvz.accessibilityHint" = "Your first (given) name";
+
+/* Class = "IBUITextField"; placeholder = "First name"; ObjectID = "EaU-Qd-Nvz"; */
+"EaU-Qd-Nvz.placeholder" = "First name";
+
+/* Class = "IBUIButton"; normalTitle = "Continue"; ObjectID = "ZpS-yf-uBM"; */
+"ZpS-yf-uBM.normalTitle" = "Continue";
+
+/* Class = "IBUITextField"; placeholder = "Last name"; ObjectID = "lL8-Mi-vJl"; */
+"lL8-Mi-vJl.placeholder" = "Last name";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "wbF-oB-1e5"; */
+"wbF-oB-1e5.placeholder" = "Password";
